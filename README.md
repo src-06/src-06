@@ -4,10 +4,6 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="17705867" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/violet-evergarden-anime-drinking-drink-gif-17705867">Violet Evergarden Anime GIF</a>from <a href="https://tenor.com/search/violet+evergarden-gifs">Violet Evergarden GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
-
 <h2 align="center">Hello everyone! 👋🏻</h2>
 
 ###

@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gotthardleo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="110" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotthardleo&radius=16&theme=github-dark&area=false&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###

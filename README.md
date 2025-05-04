@@ -40,8 +40,6 @@
   <a href="https://fedoraproject.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  /></a>
   <img width="12" />
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
-  <img width="12" />
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></a>
 </div>
 
 ###

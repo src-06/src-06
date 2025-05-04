@@ -63,7 +63,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/gotthardleo/gotthardleo/output/snake.svg" alt="Snake animation" />
-
-###

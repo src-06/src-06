@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="center">OS & Software</h4>
+<h4 align="center">Developer Operations</h4>
 
 ###
 

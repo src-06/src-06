@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">My name is Gotthard Leo, I am a passionate web developer, crafting seamless digital experiences one line of code at a time. Turning ideas into reality with creativity.</h6>
+<h6 align="center">My name is Gotthard Leo, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</h6>
 
 ###
 
@@ -23,16 +23,16 @@
   <img width="12" />
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
   <img width="12" />
-  <a href="https://astro.build/"><img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  /></a>
-  <img width="12" />
   <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  /></a>
   <img width="12" />
-  <a href="https://alpinejs.dev/"><img src="https://skillicons.dev/icons?i=alpinejs" height="30" alt="alpinejs logo"  /></a>
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
+  <img width="12" />
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
 </div>
 
 ###
 
-<h4 align="center">Developer Operations</h4>
+<h4 align="center">Development Tools</h4>
 
 ###
 

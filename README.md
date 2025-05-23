@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="violet-evergarden-drink.gif"  />
+  <img src="violet-evergarden-drink.gif" width="100%" style="aspect-ratio: 16/9 auto;" />
 </div>
 
 ###

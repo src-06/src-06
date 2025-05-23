@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">My name is Gotthard Leo, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</h6>
+<p align="center">My name is Gotthard Leo, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
 
 ###
 

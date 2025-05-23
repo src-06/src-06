@@ -46,13 +46,17 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gotthardleo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotthardleo&radius=16&theme=github-dark&area=false&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=gotthardleo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gotthardleo/gotthardleo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gotthardleo/gotthardleo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gotthardleo/gotthardleo/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

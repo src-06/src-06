@@ -4,51 +4,77 @@
 
 ###
 
-<h2 align="center">Hello everyone! 👋🏻</h2>
+<br clear="both">
+
+<h1 align="center">Hello Everyone 👋🏼</h1>
 
 ###
 
-<p align="center">My name is Gotthard Leo, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
+<br clear="both">
+
+<p align="left">My name is Gotthard Leo, a passionate Front End  Developer dedicated to make a simple interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
 
 ###
 
-<h4 align="center">Skills</h4>
+<br clear="both">
+
+<h3 align="left">Programing Language</h3>
 
 ###
 
-<div align="center">
-  <a href="https://html.spec.whatwg.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-  <img width="12" />
-  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  /></a>
-  <img width="12" />
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-  <img width="12" />
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
 ###
 
-<h4 align="center">Development Tools</h4>
+<br clear="both">
+
+<h3 align="left">Framework & Library</h3>
 
 ###
 
-<div align="center">
-  <a href="https://fedoraproject.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  /></a>
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
-  <img width="12" />
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gotthardleo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
+<h3 align="left">Development Tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">My Github Stats</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###

@@ -1,3 +1,5 @@
+###
+
 <div align="center">
   <img src="violet-evergarden-drink.gif" width="100%" style="aspect-ratio: 4/3 auto;" />
 </div>
@@ -8,15 +10,13 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">My name is Gotthard Leo, a passionate Front End  Developer dedicated to make a simple interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
+<p align="left">My name is Gotthard Leo, a passionate Front End  Developer dedicated to make a simple UI while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Programing Language</h3>
+<h3 align="left">Programming Language</h3>
 
 ###
 
@@ -67,8 +67,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotthardleo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="110" alt="languages graph"  />
 </div>
 
 ###

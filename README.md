@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Hello Everyone 👋🏼</h1>
 
 ###
@@ -21,8 +19,6 @@
 <h3 align="left">Programing Language</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -40,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -50,11 +44,11 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Development Tools</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -66,11 +60,11 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">My Github Stats</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gotthardleo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
@@ -78,6 +72,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gotthardleo/gotthardleo/output/pacman-contribution-graph-dark.svg">

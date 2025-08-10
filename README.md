@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Gotthard Leo, a passionate Front End  Developer dedicated to make a simple UI while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
+<p align="left">My name is Farell Reyhan Pradana, you can call me Farell, a passionate Front End  Developer dedicated to make a simple UI while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<h3 align="left">My Contributions</h3>
+<h3 align="left">Daily Contribution on Github</h3>
 
 ###
 

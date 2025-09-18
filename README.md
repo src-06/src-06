@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Farell Reyhan Pradana, you can call me Farell, a passionate Front End  Developer dedicated to make a simple UI while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
+<p align="left">My name is Farell Reyhan Pradana, you can call me Farell, I'm a passionate Front End  Developer dedicated to make a simple UI while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.</p>
 
 ###
 

@@ -51,6 +51,8 @@
 <h3 align="left">Development Tools</h3>
 
 <div align="left">
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo" /></a>
+  <img width="12" />
   <a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix" height="40" alt="nixos logo" /></a>
   <img width="12" />
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
